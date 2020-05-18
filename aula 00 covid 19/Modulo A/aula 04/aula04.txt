@@ -1,0 +1,30 @@
+Q01 
+QUE LIVROS / DOCUMENTOS NOS RECOMENDAMOS?
+R: “Javascript” o guia definitivo , o guia do programador, mozilla e o ecmascript
+
+Q02
+PARA APRENDER JS, PRECISAMOS SABER INGLÊS
+R: não, tem cursos 100% português algumas coisas são em inglês mas e so traduzir
+
+Q03
+QUE DICAS NOS DEMOS PARA QUEM QUER ESTUDAR ?
+R: bibliografia, anotações, vídeos, ler manuais, e ter as ferramentas certas.
+
+Q04
+QUAIS PROGRAMAS NOS INSTALAMOS NO COMPUTADOR?
+R:Google, visual code e node.
+------------------------------------------------------------------------------------------------------------------------------
+CRIANDO NOSSO PRIMEIRO SCRIPT
+Nessa aula Guanabara ensina acriar pastas e diretórios e também faz um site básico com o titulo  meu prmeiro programa... ele usa a tag h1 para deixar o (‘Olá,mundo!’) em tamanho de titulo e usa a tag p para a frase (já me livrei da maldição) fez um style dentro do head com a tag body para mudar a sua cor de fundo e se o usuário não gostar do tom da cor é so ele ir em cima da cor e uma aba de RGB vai se abrir para ele, depois ele mudou a cor do texto para branco usando a tag color  e mudando a fonte e o tamanho dela usando a tag  font, ele fez uma tag chamada script e dentro dela ele usou o comando (window.alert (‘minha primeira mensagem)), depois foi usado o (window.confirm(‘esta gostando de js’) e (window.promt(‘qual o seu nome’) para que o usuário possa digitar seu nom.
+------------------------------------------------------------------------------------------------------------------------------
+Linhas de comandos usados <script>
+Window.prompt = para aparecer uma caixa aonde ele possa digitar oq foi perguntado.
+Window.confirm= para o usuário confirma algo que apareceu na caixa de texto
+Window.alert= para aparecer um alerta antes da pagina ser aberta totalmente
+------------------------------------------------------------------------------------------------------------------------------
+Linhas de comando usando no <style>
+Color=para mudar a cor do texto
+Background-color= para mudar o fundo do site
+Font= para mudar o tamanho da fonte e o tipo da fonte
+Style=para definir tamanho cores e etc....
+ 

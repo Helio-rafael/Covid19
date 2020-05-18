@@ -1,0 +1,36 @@
+Como e composto o Website?
+O website e feito com 3 coisas, o conteúdo (Texto, vídeo, imagem), o designer (Organiza cores, tamanhos, posições e tamanhos), O programador (Interações e integrações)
+Conteúdo -> HTML
+Designer -> css
+Programador -> Java Script
+------------------------------------------------------------------------------------------------------------------------------
+ QUEM USA O JAVASCRIPT?
+Youtube 
+Google
+Linkedin
+Netflix
+Facebook
+Amazon e etc....
+Tudo hoje em dia usa Java script
+------------------------------------------------------------------------------------------------------------------------------
+
+CLIENTE X SERVER
+Os computadores e celulares (Dispositivos de acesso) são os clientes, e servidor fornece os dados para seu cliente, mas antes precisamos de um navegador, e quando o cliente for fazer uma busca nesse navegador tipo youtube ele vai para uma infraestrutura da internet e ela vai nos guiar para o servidor aonde está alocado o youtube, como todo computador, o servidor tem um sistema operacional que contem pastas e arquivos e na hora que solicito um arquivo ele me manda uma cópia no meu navegador.
+------------------------------------------------------------------------------------------------------------------------------
+INTERAGINDO COM O GOOGLE ATRAVES DO INSPECIONAR
+Como desabilitar um Java Script de qualquer site
+Abre o DevTools clicando no botão direito do mouse no site indo em inspecionar ou (Ctrl+ Shift+ l)
+Va nos três pontinhos no canto superior lado direito, clique em cima dele, va em settings ou (Aperte F1)  
+Role a página até Debugger e clique no ícone disable Java Script
+E pronto sua página está sem as configurações do Java Script.
+Fazendo alterações no google direto do site 
+Abra o DevTools e vá em console
+O primeiro teste vai ser olá mundo
+Escreva da seguinte forma Alert (‘olá, Mundo! ’)
+E aperte ENTER
+A pagina vai aparecer olá mundo
+
+Mudando o estilo da pagina
+Mudando a cor de fundo do google para preto Document.body. Style. Background = ‘Black’,  
+Mudando a cor da logo do google   Document.queryselector(‘img#hplogo’). Style. Filter = “grayscale (100%)  
+

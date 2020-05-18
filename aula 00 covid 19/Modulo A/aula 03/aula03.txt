@@ -1,0 +1,18 @@
+Q01 
+SABE QUE EMPRESA CRIOU O JAVASCRIPT
+R: Netscape
+
+Q02
+ JAVA E JAVASCRIPT POSSUEM ALGUMA RELAÇÃO
+R: Java e Javascript possuem alguns códigos parecido e o nome parecido e porque na época o nome Java era muito famoso então brandon eich deu o nome de Javascript
+
+Q03
+O QUE ECMASCRIPT TEM A VER COM JAVASCRIPT
+R: ecamascript e Javascript são a mesma coisa pois o Javascript e a evolução do ecmascript
+
+Q04
+Você sabia que o programa WhatsApp desktop e criado em Javascript?
+R: Sim, sabia.
+
+
+	Nessa aula Guanabara fala sobre a importância de praticar bem as aulas, e falou sobre biografias e a não dar ouvidos para aqueles que não quer aprender e nunca desmerecer o companheiro programador

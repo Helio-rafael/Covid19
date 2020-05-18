@@ -1,0 +1,53 @@
+Q01
+Já sabe organizar suas pastas com Vscode?
+R: sim
+
+Q02
+O Node.js esta instalado no seu computador ?
+R: sim
+
+Q03
+Sabe diferenciar um html5, css3 e js dentro de um código
+R: sim
+
+Q04
+Sabe disparar alertas , confirmações e perguntas ?
+R sim
+
+Na aula de hoje guanaraba ensina sobre variaveise tipos de data types e regras de identificadores e a comentar linha ou linhas de código
+
+Para criar uma variavel, é necessario usar o var, let ou const antes>
+<Var é uma variavel comum>
+<Let é uma variavel utilizada dentro de um funçao>
+<Const é uma variavel constante, onde o conteudo nao pode ser editado>
+<indentificador de variavel é o apelido dado a ela>
+<Os indentificadores podem começar com letras, $ ou _ >
+<Nao podem começar com numeros>
+<É possivel usar acentos e simbolos> 
+<Nao pode conter espaços>
+<Nao podem conter palavras reservadas como (var var)> 
+<Uma variavel é um espaço na memoria que salva algo usando um indentificador>
+<Maiusculas e minusculas fazem diferença na variavel>
+<Numeros inteiros ou quebrados, sao tratados como NUMBER no Js>
+<Quando você quiser definir se algo é verdadeiro ou falso (True ou False)
+voce utiliza booleans>
+<Quando voce quer se referir a um conjunto de caracteres ou uma palavra
+voce utiliza string>
+<Para descobrir os tipos primitivos voce utiliza typeof>
+<Para saber quantas letras tem na string utilizar nome variavel.leangth>
+<Para deixar tudo maiusculo utilizar nome variavel.toUpperCase()
+e para minusculas utilizar .toLowerCase()>
+-->
+
+<!-- 
+            TIPOS PRIMITIVOS
+    number
+        infinity
+        NaN
+    string
+    boolean
+    null
+    undefined
+    object
+        Array
+    function

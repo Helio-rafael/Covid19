@@ -1,0 +1,33 @@
+Q01
+o que é uma variavel ?
+R: variavel é o que pode assumir qualquer valor
+ou string 
+EXEMPLO n1 = 'Gustavo' ou n1 = 20
+
+Q02
+como declarar uma variavel numerica inteira ou real
+usando js ?
+R:
+
+Q03
+quais os tipos primitivos do js?
+R:
+  number
+        infinity
+        NaN
+    string
+    boolean
+    null
+    undefined
+    object
+        Array
+    function
+
+Q04
+o que significa colocar o valor null dentro de 
+uma variavel
+
+R: significa que essa variavel vai ficar vazia 
+sem nada dentro dela.
+
+

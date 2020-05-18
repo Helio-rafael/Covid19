@@ -1,0 +1,22 @@
+Q01
+como e possivel guarda o valor digitado em um prompt() dentro de uma
+variavel ?
+R:
+var n1= window.promt(...)
+
+Q02
+como fazer com que um numero digitado em um prompt() possa ser usado 
+em calculos
+R:
+var n1= number.parseint(window.prompt('......))
+
+Q03
+ como transforma um texto todo em maiuscula ?
+ R:
+ document.write(`seu nome em maiuscula é ${nome.touppercase}`)
+
+ Q04
+ como mostrar um numero formatado como um valor numerico ?
+ R:
+ n1.tolocalestring('pt-br',{style:'currency', currency: 'BRL'})
+ 

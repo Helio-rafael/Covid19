@@ -1,0 +1,17 @@
+Q01 
+Sabe a diferença entre um cliente e um servidor para internet?
+R: cliente são os dispositivos (computadores ou celulares), e o Servidor são os hospedeiros dos sites tipo (Youtube e netflix e etc.…)
+Q02
+Para que serve o HTML, CSS E O JAVASCRIPT?
+R Html -> conteúdo
+CSS -> estilo da pagina
+Java script -> interação das anteriores
+
+Q03
+CITE 4 SITES QUE FAZEM USO DO JAVASCRIPT?
+R: YOUTUBE, NETFLIX, AMAZON E GOOGLE.
+
+EVOLUÇÃO DO JAVASCRIPT
+
+Em 1970 o Dwight d. Eisenhower decretou a criação da DARPA ela é uma agencia de pesquisas tecnológicas e a sua função era pesquisar tecnologia para a guerra, que envolvia a segurança dos centro militares, A DARPA criou uma rede para proteger esses dados e essa rede ficou conhecida como ARPANET, Ela era gerenciada pelo governo e militares mas também tinha apoio das universidades as duas mais importantes eram uma da Califórnia e um departamento quer era o MIT com o crescimento dela o governo não estava mais dando conta e por isso ela teve que se juntar a outras pequenas redes, Assim mudando de nomes várias vezes e por último o nome escolhido foi a internet, Em 1993 em Genebra Timothy berners-lee e responsável pelo desenvolvimento da tecnologia HTML,HTTP e também World wide web o famoso (WWW) e para usar tudo isso surgiu então nos EUA, o MOSAIC, ele foi desenvolvido pelo centro nacional de aplicações de supercomputadores por Marc andreessen,em 1994 Marc saio da ncsa e se juntou com um bilionário jim Clark e os dois abriu uma empresa chamada Netscape., em 1995 brandoneich e funcionário de jim Clark entrou na Netscape e  estava desenvolvendo a linguagem mocha mas ela ia se chamar livescript mas o nome Java fazia sucesso na época e foi daí que surgiu o nome Java script.
+

@@ -1,0 +1,21 @@
+Q01
+para que serve o operador %em js ? sera para calcular
+ porcentagem ?
+ R: ela serve para calcular o restante, e ela nao e para
+ porcentagem.
+
+ Q02
+ 6 + 4 / 2 e igual a 5 ou a 8
+ R:8
+
+ Q03
+ se uma variavel N esta valendo 10 e executamos um
+ n+=5, qual seria seu novo valor ?
+ R:15
+
+ Q04
+ para que servem os operadores ++ e --?
+ R:
+ o operador ++/-- serve como um contador
+ Exemplo(n=10, n++==11)
+ (n=10, n-- ==09).
