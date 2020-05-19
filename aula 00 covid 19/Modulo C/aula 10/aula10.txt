@@ -1,0 +1,19 @@
+Q01
+oq significa a sigla DOM?
+R:document object model, é um modelo de documento para
+objetos.
+
+Q02
+sabe montar a Árvore DOM de um website simples
+R: sim, e so ir separando suas maes e filhos.
+
+Q03
+oque são os elementos PARENT e os elementos Child em uma arvore
+DOM ?
+R:parent são as mae ele fica em cima do child.
+
+Q04
+quais são os Cinco principais metodos de selecionar elementos
+DOM detro do javaScript?
+
+R: por marca, id ,nome, classe, seletor

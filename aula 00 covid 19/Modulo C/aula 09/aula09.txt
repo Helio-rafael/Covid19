@@ -1,0 +1,21 @@
+Q01
+qual a diferença entre usar =, ==, === em codigos
+escrito em js ?
+R: = recebe
+== é igualdade
+=== é identico
+
+Q02
+em uma expressão, tem os operadores ll e &&. quem
+eu resolvo primeiro
+
+R:Primeiro séria o operador &&(conjunção) depois o ||(disjunção).
+
+Q03 sabe usar o operador ternario para colocar dois valores
+em uma variavel ?
+
+R:
+var n1=5.5
+n1 >7 ?'aprovado' : 'reprovado'
+
+se n1 for maior que 7 ele sera aprovado senão reprovado.

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: rgb(19, 1, 1);
+            color: white;
+            font: normal 15pt arial;
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1> Iniciando os estudos com O DOM</h1>
+    <p>aqui vai o resultado</p>
+    <p>aprendendo a usar o <strong>DOM</strong>  em Java script</p>
+    <div id="msg">Clique em mim</div>
+    <script>
+
+
+var corpo = window.document.body
+var p1=window.document.getElementsByTagName('p')[1]
+corpo.style.background = 'black'
+window.document.write('esta escrito assim: ' + p1.innerText)
+p1.style.color= 'blue'
+var d=window.document.getElementById('msg')
+
+    </script>
+    
+</body>
+</html>
