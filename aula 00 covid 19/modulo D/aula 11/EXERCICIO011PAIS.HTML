@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pais</title>
+</head>
+
+<body>
+    <h1>De que pais voce é</h1>
+    De que pais voce é ?: <input type="text" name="txtvel" id="txtvel">
+    <input type="button" value="verificar" onclick="calcular()">
+    <div id="res">
+
+    </div>
+
+    <script>
+
+        function calcular() {
+            var txtv = window.document.querySelector('input#txtvel')
+            var res = window.document.querySelector('div#res')
+            var pais = (txtvel.value)
+            res.innerHTML = `<p> Voce é do pais  <strong>${pais} </strong></p>`
+
+            if (pais == eua) {
+                res.innerHTML += '<p>Voce é <strong>Estrangeiro</strong></p>'
+            } else {
+                res.innerHTML += 'Voce e braseileiro'
+            }
+
+        }
+
+    </script>
+</body>
+
+</html>
