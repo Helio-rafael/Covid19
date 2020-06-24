@@ -1,0 +1,11 @@
+Q01
+Ja aprendeu a usar direito a extensão watch in chrome no vscode ?
+R: sim, mas comigo nunca atualiza na hora
+
+Q02
+ja aprendeu a usar o MODO DE DEPURAÇÃO do vscode ?
+R: eu vi pouco, preciso retorna as aulas para fazer dnv.
+
+Q03
+ja treinou bastante com os componentes array e fuction ?
+R: ainda nao.
