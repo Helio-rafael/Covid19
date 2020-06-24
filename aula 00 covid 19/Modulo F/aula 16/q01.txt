@@ -1,0 +1,15 @@
+Q01
+conseguiu simplificar seus codigos com o uso de array ?
+R: sim
+
+Q02
+sabe colocar um array em ordem usando apenas uma chamada de fun��o ?
+R: sort()
+
+Q03
+lembra como disparar uma fun��o simples quando apertamos um botão ?
+R: sim, onclick().
+
+Q04
+quer aprender mais sobre fun��es ?
+R: sim
